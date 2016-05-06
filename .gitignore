@@ -8,3 +8,4 @@ target/
 .*.swo
 Cargo.lock
 lib*.a
+**.vscode/
